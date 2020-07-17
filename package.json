@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "deploy": "gh-pages -d dist"
+        "deploy": "gh-pages -d C:/Users/Saint/Documents/khoza-blog/bitcoin-back"
     },
     "keywords": [],
     "author": "",
